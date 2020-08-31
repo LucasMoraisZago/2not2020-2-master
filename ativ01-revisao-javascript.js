@@ -143,7 +143,7 @@ for(let val of estadosNe){
 */
 let vet = []
 
-vet.push(estadosNe[0].nome)//sergipe
+vet.push(estadosNe[0].nome)//sergipe 
 
 vet.unshift(estadosNe[1].nome)//alagoas
 
